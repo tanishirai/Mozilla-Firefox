@@ -67,7 +67,7 @@ const NavBar = () => {
               <div className="flex justify-center gap-1 py-2 px-6 rounded-[inherit] items-center">
                 <h1 className="text-[#7209B7]">Mozilla</h1>
                 <img
-                  src="src/assets/favicon.png"
+                  src="/assets/favicon.png"
                   width="500"
                   height="500"
                   className="w-8 h-8 hover:rotate-45 -rotate-12 duration-200 cursor-pointer"
