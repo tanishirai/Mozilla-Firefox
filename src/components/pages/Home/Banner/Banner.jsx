@@ -48,7 +48,7 @@ const Banner = () => {
           height="500"
           className=""
           alt="element"
-          src="public/heroimg.png" 
+          src="/heroimg.png" 
         />
       </div>
     </div>
