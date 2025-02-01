@@ -10,7 +10,7 @@ const Footer = () => {
         {/* First Column: Club Logo */}
         <div className="flex justify-center items-center mt-10">
           <img
-            src="public/favicon.png" // Replace with your club logo path
+            src="/favicon.png" // Replace with your club logo path
             alt="Club Logo"
             className="w-24 h-24 animate-bounce"
           />
