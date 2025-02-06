@@ -4,7 +4,6 @@ import Events from "../Events/Events";
 import AboutFea from "./AboutFea/AboutFea";
 import Banner from "./Banner/Banner";
 import Schedule from "./../Events/Schedule";
-// import Spornsor from "./Sponsors/Spornsor";
 
 const Home = () => {
   const data = useLoaderData();
@@ -21,7 +20,6 @@ const Home = () => {
       <Events events={events} />
 
       <Schedule scheduleData={events} />
-      {/* <Spornsor /> */}
     </div>
   );
 };
